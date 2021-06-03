@@ -1,5 +1,6 @@
 package br.com.gile.tdd.service;
 
+import br.com.gile.tdd.modelo.Desempenho;
 import br.com.gile.tdd.modelo.Funcionario;
 import org.junit.jupiter.api.Test;
 
